@@ -14,7 +14,7 @@ import SimpleITK as sitk
 
 ### Internal Imports ###
 
-from loader import LoadMode
+from .loader import LoadMode
 import simple_loader
 from dhr_utils import utils as u
 

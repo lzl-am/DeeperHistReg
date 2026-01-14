@@ -16,7 +16,7 @@ Image.MAX_IMAGE_PIXELS = None
 ### Internal Imports ###
 
 import simple_loader
-from loader import LoadMode
+from .loader import LoadMode
 from dhr_utils import utils as u
 
 ########################

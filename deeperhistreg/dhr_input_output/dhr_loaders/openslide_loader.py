@@ -14,7 +14,7 @@ import pyvips
 
 ### Internal Imports ###
 
-from loader import WSILoader, LoadMode
+from .loader import WSILoader, LoadMode
 from dhr_utils import utils as u
 
 ########################
